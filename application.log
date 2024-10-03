@@ -1,0 +1,3 @@
+time="2024-09-24T07:51:34+07:00" level=info msg="This is a info"
+time="2024-09-24T07:51:34+07:00" level=warning msg="This is a warn"
+time="2024-09-24T07:51:34+07:00" level=error msg="This is a error"
